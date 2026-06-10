@@ -1,0 +1,12 @@
+selection sort
+
+
+        less memory needed
+        not optimal at memory writes 
+        not stable 
+
+        during the changes of the postion of the element the sequence of element also get changed
+        the order of placing element leads to the disturbance of the data
+
+        in the selection sort the smallest element come and take the first postion and so on 
+        it begin from the starting of the array
